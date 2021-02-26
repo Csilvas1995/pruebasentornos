@@ -1,3 +1,2 @@
 el dolor me hace daño
 
-git add .
