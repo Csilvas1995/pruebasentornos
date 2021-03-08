@@ -1,0 +1,4 @@
+*.jpg
+pepito.txt
+**/img ----------->indica directorios con **/
+pepito [0-9].* --------------->indica patrones dentro de los archivos a ignorar
