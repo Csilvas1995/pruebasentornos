@@ -1,0 +1,3 @@
+[alias]
+pretty =  "log --pretty=format:\" %h %ad | %s% [%an]\""  
+lol = log --oneline
